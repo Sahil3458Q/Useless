@@ -33,11 +33,9 @@ def simplify(num):
     print("  ",int(nume))
     print("  ",int(deno))
 
-
-# simplify(10/3)
 while 1:
     simplify(float(input("\nEnter the number : ")))
-# print(prime(32434423))
+
 
 
 
